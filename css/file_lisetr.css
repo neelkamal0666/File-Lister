@@ -1,0 +1,23 @@
+.navbar-fixed-top{
+position:relative;
+}
+.login_box{
+width:300px;
+}
+#login_password{
+margin-top:10px;
+}
+#sign_in{
+margin-top:10px;
+}
+#singup_nav{
+width:150px;
+margin-top:10px;
+float:right;
+}
+.home_page{
+width:50%;
+margin-left:24%;
+border:1px solid #0000FF;
+padding:20px;
+}
